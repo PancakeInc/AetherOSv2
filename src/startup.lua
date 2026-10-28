@@ -1,0 +1,4 @@
+-- startup.lua
+-- Required Startup File for AetherOS
+-- Copyright (c) 2026 Pancakse
+-- SPDX-License-Identifier: MPL-2.0
