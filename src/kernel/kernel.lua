@@ -1,0 +1,4 @@
+-- kernel.lua
+-- Loads kernel stuff
+-- Copyright (c) 2026 Pancakse
+-- SPDX-License-Identifier: MPL-2.0
